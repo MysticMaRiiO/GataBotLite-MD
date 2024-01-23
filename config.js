@@ -28,7 +28,7 @@ global.prems = []
 global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
 
 // ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
-global.openai_key = 'sk-0'
+global.openai_key = es 'sk-0'
 
 // ES ➜ Consigue tu ID de organizacion en: https://platform.openai.com/account/org-settings
 global.openai_org_id = 'org-3'
